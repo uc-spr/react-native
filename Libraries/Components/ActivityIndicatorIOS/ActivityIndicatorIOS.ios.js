@@ -92,7 +92,7 @@ var styles = StyleSheet.create({
     height: 20,
   },
   sizeLarge: {
-    width: 36,
+    width: 30,
     height: 36,
   }
 });
